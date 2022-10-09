@@ -1,0 +1,3 @@
+ACME Corporation (IBEX 35: ACME) es una empresa multinacional española de telecomunicaciones, con sede central en Madrid. Es la cuarta compañía de telecomunicaciones más importante de Europa y la decimotercera a nivel mundial.
+<br/>
+La marca de ACME Corporation se reserva exclusivamente para el papel institucional de la empresa. Para la comercialización de sus productos y servicios, la compañía tiene tres marcas principales: Movistar para España e Hispanoamérica, O2 para toda Europa y Vivo para Brasil.

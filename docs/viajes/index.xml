@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viajes on My New Hugo Site</title>
+    <link>http://example.org/viajes/</link>
+    <description>Recent content in Viajes on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster><atom:link href="http://example.org/viajes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/viajes/canada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/canada/</guid>
+      <description> Seguridad, multiculturalidad y sociedad abierta. Grandes maravillas naturales patrimonios de la humanidad (UNESCO). Gran oferta de ocio y deporte. Muchas posibilidades para el turismo de compras. Si visitas este país tendrás distintas formas de divertirte: </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/viajes/holanda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/holanda/</guid>
+      <description>Holanda es un país nórdico conocido por sus políticas liberales. El más famoso ejemplo de ello es el barrio Rojo de Ámsterdam y los coffee shops, dónde se puede adquirir marihuana de forma legal. De todos modos, si quieres conocer éste país nórdico en profundidad, es aconsejable perderse por los pequeños pueblos holandeses que parecen decorados de cuentos de hadas (los holandeses son gente amable y muy cuidadosa con su entorno).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/viajes/mexico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viajes/mexico/</guid>
+      <description>Porque es delicioso Aceptémoslos, a los mexicanos nos encanta comer, y cómo no hacerlo si México es uno de los países con más riqueza gastronómica. Aquí cada estado -e incluso cada poblado o localidad- tiene sus propios platillos típicos, tanto originales y sabrosos unos como otros. De hecho, la cocina tradicional mexicana recibió el distintivo de Patrimonio inmaterial de la humanidad por la UNESCO. Viajar por México significa comer delicioso y eso no tiene precio.</description>
+    </item>
+    
+  </channel>
+</rss>
